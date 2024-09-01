@@ -1,5 +1,5 @@
 # Voice-Based-Control-Assistant
-Software application is a digital life monitor, administrator and assistant that is much more than just a digital virtual assistant. As a personal assistant, it assists the end-user with day-to-day activities like general human conversation, searching queries in web-browser, searching for videos, images, live weather conditions, word meanings, searching for medicine details, health recommendations based on symptoms and set reminder and also reminding the user about the scheduled events and tasks. 
+This Software application is a digital life monitor, administrator and assistant that is much more than just a digital virtual assistant. As a personal assistant, it assists the end-user with day-to-day activities like general human conversation, searching queries in web-browser, searching for videos, images, live weather conditions, word meanings, searching for medicine details, health recommendations based on symptoms and set reminder and also reminding the user about the scheduled events and tasks. 
 
 It has been designed to provide a user-friendly interface for carrying out a variety of tasks by employing certain well-defined commands. Users can interact with the assistant through voice commands and certain functionalities can also be accessed using mouse\keyboard input.
 

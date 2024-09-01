@@ -7,7 +7,7 @@ It can perform all basic tasks on a desktop machine such as: launch applications
             
             Code Structure
             
-1.An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3.egineinstance through this assistant is able to speak after that title() function is called which shows basic text on screen like the assistant name and version.
+1.An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3.Engine instance through this assistant is able to speak after that title() function is called which shows basic text on screen like the assistant name and version.
 
 2.Then greeting() function is called in which datetime module is used. According to it assistant greets user Good Morning, Afternoon or Evening.
 

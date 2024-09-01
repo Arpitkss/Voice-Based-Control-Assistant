@@ -7,7 +7,8 @@ It can perform all basic tasks on a desktop machine such as: launch applications
             
             Code Structure
             
-1.	Made an init() function in which pyttx3 module is used and through this module assistant is able to speak after that title() function is called which shows basis text on screen like the assistant name and version on the screen.
-2.	Then greeting() function is called in which datetime module is used according to that it greet user Good Morning, Afternoon and Evening.
-3.	Then takeInput() function is called in which speech recognition module is used which uses different function recognizer, microphone and listen to take audio input from user and store it in an audio variable and then recognize google function convert the audio in English format and saves it query variable.
+            1.	An application invokes the pyttsx3.init() factory function to get a reference to a pyttsx3.egineinstance through this assistant is able to speak after that title() function is called which shows basic text on screen like the assistant name and version.
+2.	Then greeting() function is called in which datetime module is used. According to it assistant greets user Good Morning, Afternoon or Evening.
+3.	Then takeInput() function is called in which speech recognition module is used which uses different function like recognizer(), microphone() and listen() to take audio input from user and store it to an audio variable and then recognize_google() function converts the audio in English format and saves it in query variable.
 4.	Then query is matched with the available commands which triggers the respective functions with different python modules according to that assistant will respond.
+
